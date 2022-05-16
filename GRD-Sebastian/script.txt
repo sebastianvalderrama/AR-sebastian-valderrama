@@ -1,2 +1,4 @@
 sebastian valderra
 hola mundo
+Automatizacion de rede	
+sexto trimestre- gestion de redes de datos
