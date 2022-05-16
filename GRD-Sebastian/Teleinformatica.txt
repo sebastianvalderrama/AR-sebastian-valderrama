@@ -1,5 +1,9 @@
 Sebastian Valderrama Gutierrez
 Tecnologo en Gestion de redes de datos
 Centro de Gestion de Mercados, Logistica y tecnologias de la informacion
-Ficha: 2236876
+Ficha: 2236
 
+sebastian valderra
+hola mundo
+Automatizacion de redes 
+sexto trimestre-gestion de redes de datos rtt
